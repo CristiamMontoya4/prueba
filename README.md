@@ -98,18 +98,6 @@ SELFKIOS es una aplicación que ofrece a los usuarios una experiencia de autoser
 
 - **Flexibilidad de Pago:** SELFKIOS permite a los usuarios elegir entre pagar en efectivo o con tarjeta, brindándoles la libertad de utilizar el método de pago.
 
-# Tecnologias
-
-## Este proyecto esta creado con [React](https://github.com/facebook/create-react-app).
-![My Skills](https://skillicons.dev/icons?i=react,javascript)
-=======
-#Funcionalidades Principales #0969DA
-
-- Creación de órdenes para diferentes tipos de servicio **(servicio rápido, para mesa, para recoger, para llevar)**.
-- Personalización de órdenes con extras, modificadores y adiciones.
-- Ajuste de cantidades de productos
-- Procesamiento de pagos con efectivo y tarjeta a través de un procesador de pagos integrado (Clover)
-  
 
 # Tecnlogias
 
