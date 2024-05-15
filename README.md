@@ -90,7 +90,7 @@ SELFKIOS es una aplicación que ofrece a los usuarios una experiencia de autoser
 
 ## 
 
-#### POS, KDS y Table Map trabajan en conjunto para proporcionar una experiencia integral de gestión de ventas y servicios en el entorno de un restaurante o establecimiento de servicios de alimentos. Cada una de estas secciones cumple un papel específico para optimizar las operaciones y mejorar la experiencia tanto para el personal como para los clientes. Desde la creación y personalización de órdenes en la sección POS, hasta la visualización y gestión de las órdenes pendientes en el KDS, y la gestión de mesas y reservas en la sección Table Map, todas estas funciones se complementan entre sí para garantizar una gestión eficiente y una experiencia satisfactoria para todos los involucrados.
+<h2>POS, KDS y Table Map trabajan en conjunto para proporcionar una experiencia integral de gestión de ventas y servicios en el entorno de un restaurante o establecimiento de servicios de alimentos. Cada una de estas secciones cumple un papel específico para optimizar las operaciones y mejorar la experiencia tanto para el personal como para los clientes. Desde la creación y personalización de órdenes en la sección POS, hasta la visualización y gestión de las órdenes pendientes en el KDS, y la gestión de mesas y reservas en la sección Table Map, todas estas funciones se complementan entre sí para garantizar una gestión eficiente y una experiencia satisfactoria para todos los involucrados.</h2>
 
 ## **Beneficios para los Usuarios**
 
