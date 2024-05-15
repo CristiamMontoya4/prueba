@@ -1,4 +1,4 @@
-# BRAVUS
+#  `rgb(9, 105, 218)`**BRAVUS**
 
 # Getting Started with Create React App
 
