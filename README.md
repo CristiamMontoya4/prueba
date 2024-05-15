@@ -20,7 +20,7 @@ Bravus POS es un conjunto de aplicaciones diseñadas para restaurantes y estable
 # Tecnlogias
 
 ## Este proyecto esta creado con [React](https://github.com/facebook/create-react-app).
-<img alt="Logo" align="right" src="https://create-react-app.dev/img/logo.svg" width="20%" />
+[![My Skills](https://skillicons.dev/icons?i=react)]
 
 ## Available Scripts
 
