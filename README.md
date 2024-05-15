@@ -1,6 +1,6 @@
 <h1 align="center">
   <font color="red">
-#  BRAVUS
+ BRAVUS
   </font>
 </h1>
 <center>
