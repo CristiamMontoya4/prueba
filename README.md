@@ -2,9 +2,10 @@
   <font color="red">
 #  BRAVUS
   </font>
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://posbrava.com/wp-content/uploads/2023/05/Logo-Horizontal-blanco.png)
-
 </h1>
+<center>
+![brava pos logo](https://posbrava.com/wp-content/uploads/2023/05/Logo-Horizontal-blanco.png)
+</center>
 
 # Getting Started with Create React App
 
