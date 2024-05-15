@@ -9,7 +9,7 @@
 
 Bravus POS es un conjunto de aplicaciones diseñadas para restaurantes y establecimientos de venta de alimentos. Funciona como un sistema de punto de venta (POS) completo, que tiene como objetivo agilizar y optimizar las operaciones diarias de ventas y gestión de pedidos. Tanto los empleados como los clientes se benefician de una experiencia eficiente y satisfactoria al utilizar este sistema. 
 
-#Funcionalidades Principales `#RRGGBB`
+#Funcionalidades Principales `#0969DA`
 
 - Creación de órdenes para diferentes tipos de servicio **(servicio rápido, para mesa, para recoger, para llevar)**.
 - Personalización de órdenes con extras, modificadores y adiciones.
