@@ -17,9 +17,10 @@ Bravus POS es un conjunto de aplicaciones diseñadas para restaurantes y estable
 - Procesamiento de pagos con efectivo y tarjeta a través de un procesador de pagos integrado (Clover)
   
 
-# Getting Started with Create React App
+# Tecnlogias
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Este proyecto esta creado con [React](https://github.com/facebook/create-react-app).
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 ## Available Scripts
 
