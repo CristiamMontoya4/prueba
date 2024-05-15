@@ -10,7 +10,6 @@
 Bravus POS es un conjunto de aplicaciones diseñadas para restaurantes y establecimientos de venta de alimentos. Funciona como un sistema de punto de venta (POS) completo, que tiene como objetivo agilizar y optimizar las operaciones diarias de ventas y gestión de pedidos. Tanto los empleados como los clientes se benefician de una experiencia eficiente y satisfactoria al utilizar este sistema. 
 
 
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
