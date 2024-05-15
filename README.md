@@ -55,6 +55,7 @@ La sección Table Map (Mapa de Mesas) es una funcionalidad que esta próxima a d
 
 - Integración con el POS para sincronizar la disponibilidad de las mesas con las órdenes en proceso.
 
+POS, KDS y Table Map trabajan en conjunto para proporcionar una experiencia integral de gestión de ventas y servicios en el entorno de un restaurante o establecimiento de servicios de alimentos. Cada una de estas secciones cumple un papel específico para optimizar las operaciones y mejorar la experiencia tanto para el personal como para los clientes. Desde la creación y personalización de órdenes en la sección POS, hasta la visualización y gestión de las órdenes pendientes en el KDS, y la gestión de mesas y reservas en la sección Table Map, todas estas funciones se complementan entre sí para garantizar una gestión eficiente y una experiencia satisfactoria para todos los involucrados.
 
 ## **4. SELFKIOS**
 
@@ -88,7 +89,6 @@ SELFKIOS es una aplicación que ofrece a los usuarios una experiencia de autoser
 
     * Para los pagos en efectivo, la aplicación genera un recibo que el cliente puede llevar a la caja para realizar el pago correspondiente. De esta manera, se brinda flexibilidad al cliente al permitirle elegir el método de pago que prefiera, ya sea en efectivo o con tarjeta.
 
-POS, KDS y Table Map trabajan en conjunto para proporcionar una experiencia integral de gestión de ventas y servicios en el entorno de un restaurante o establecimiento de servicios de alimentos. Cada una de estas secciones cumple un papel específico para optimizar las operaciones y mejorar la experiencia tanto para el personal como para los clientes. Desde la creación y personalización de órdenes en la sección POS, hasta la visualización y gestión de las órdenes pendientes en el KDS, y la gestión de mesas y reservas en la sección Table Map, todas estas funciones se complementan entre sí para garantizar una gestión eficiente y una experiencia satisfactoria para todos los involucrados.
 
 ## **Beneficios para los Usuarios**
 
