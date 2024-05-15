@@ -1,6 +1,6 @@
-# `rgb(9, 105, 218)` BRAVUS
+#  BRAVUS
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fposbrava.com%2F&psig=AOvVaw0oWKtkw3yhLHsxeVUfsPTl&ust=1715879166251000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLDN5JSSkIYDFQAAAAAdAAAAABAE))
 
 
 # Getting Started with Create React App
