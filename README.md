@@ -4,7 +4,7 @@
   </font>
 </h1>
 <center>
-![brava pos logo](https://posbrava.com/wp-content/uploads/2023/05/Logo-Horizontal-blanco.png)
+<img src="https://posbrava.com/wp-content/uploads/2023/05/Logo-Horizontal-blanco.png">
 </center>
 
 # Getting Started with Create React App
